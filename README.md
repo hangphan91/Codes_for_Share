@@ -1,2 +1,2 @@
-# github1
-my first GitHub repository
+# to share with Acxiom
+A shared folder, hopefully can help me optain a internship
